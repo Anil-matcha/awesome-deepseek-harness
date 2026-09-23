@@ -181,6 +181,7 @@ Entries should have a public repository or be clearly marked as upcoming. A proj
 - [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — open-source generative AI applications.
 - [Awesome Agent APIs](https://github.com/Anil-matcha/awesome-agent-apis) — APIs and tools for building AI agents.
 - [Can I Vibecode It?](https://canivibecodeit.com) — directory of SaaS products and open-source alternatives.
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 
 ## Contributing
 
